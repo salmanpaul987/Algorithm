@@ -1,0 +1,24 @@
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.exe
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.deps.json
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.runtimeconfig.json
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.runtimeconfig.dev.json
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.dll
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.pdb
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.csprojAssemblyReference.cache
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.AssemblyInfo.cs
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.dll
+C:\Users\abdul\source\repos\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.pdb
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.exe
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.deps.json
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.runtimeconfig.json
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.runtimeconfig.dev.json
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.dll
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\bin\Debug\netcoreapp3.1\ImplementationCode.pdb
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.csprojAssemblyReference.cache
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.AssemblyInfoInputs.cache
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.AssemblyInfo.cs
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.csproj.CoreCompileInputs.cache
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.dll
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.pdb
+D:\Freelancing\salmanpaul987\ORDER-18 -DEC-19-2019\Solution\ImplementationCode\ImplementationCode\obj\Debug\netcoreapp3.1\ImplementationCode.genruntimeconfig.cache
